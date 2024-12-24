@@ -394,19 +394,19 @@ img.portfolio {
 }
 
 .i-large {
-	background: url(".png") repeat 0px 0px;
+	background: url("flocon3.png") repeat 0px 0px;
 	-webkit-animation: dropFlowParticles 2s linear infinite;
 	     -o-animation: dropFlowParticles 2s linear infinite;
 	        animation: dropFlowParticles 2s linear infinite;
 }
 .i-medium {
-	background: url("flocons.png") repeat 0px 0px;
+	background: url("flocons2.png") repeat 0px 0px;
 	-webkit-animation: dropFlowParticles 12s linear infinite;
 	     -o-animation: dropFlowParticles 12s linear infinite;
 	        animation: dropFlowParticles 12s linear infinite;
 }
 .i-small {
-	background:url(".png") repeat 0px 0px;
+	background:url("flocons.png") repeat 0px 0px;
 	-webkit-animation: dropFlowParticles 27s linear infinite;
 	     -o-animation: dropFlowParticles 27s linear infinite;
 	        animation: dropFlowParticles 27s linear infinite;
